@@ -39,3 +39,18 @@ nav ul li a:hover {
     background-color: #ddd;
     border-radius: 5px;
 }
+
+/* Container CSS */
+.myLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+/* Image CSS */
+.myLogo img[src="genemplogo.png"] {
+    display: block;
+    margin: 0 auto;
+}
+
