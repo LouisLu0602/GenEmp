@@ -14,9 +14,9 @@ header {
 }
 
 .logo {
-    max-width: 100px;
-    max-height: 100px;
-    margin-bottom: 10px; /* Provide some space between the logo and the nav */
+    max-width: 300px;
+    max-height: 300px;
+    margin: 10px; /* Provide some space between the logo and the nav */
 }
 
 nav ul {
